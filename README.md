@@ -4,7 +4,7 @@
   
    **Autorunkeys.txt:** This is a file that has a list of well known auto run key locations on a Win10 Registry
   
-**NOTE** 
+**NOTE:** 
 These scripts are set up to be run in the directories they exist. This will make all the refernce locations work. 
    For example, if you want to run the "compare_baseline_accounts" script, then your propmt should look similar to:
            
