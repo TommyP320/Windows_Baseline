@@ -2,7 +2,7 @@
 
    **AllHosts.csv:**    This is a file that is in .csv format and has the host information for machines on your network.  Make the necessary changes as it pertains to you.
   
-   **Autorunkeys.txt:** This is a file that has a list of well known auto run key locations on a Win10 Registry
+   **Autorunkeys.txt:** This is a file that has a list of well known auto run key locations on a Win10 Registry. Make the necessary changes as it pertains to you.
   
 **NOTE:** 
 These scripts are set up to be run in the directories they exist. This will make all the reference locations work. 
@@ -11,3 +11,5 @@ These scripts are set up to be run in the directories they exist. This will make
      PS C:\Users\TommyP320\Documents\03_Compare_Baseline_Scripts>
            
    If you want to change the locations, just ensure that all relative paths in your scripts are edited to show new locations!
+
+To running Invoke-Commands (ICM) for remote powershell execution, you will need to enter domain name and password credential in the remote login popup.
