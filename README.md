@@ -1,6 +1,6 @@
 # Windows_Baseline
 
-   **AllHosts.csv:**    This is a file that is in .csv format and has the host information for machines on your network
+   **AllHosts.csv:**    This is a file that is in .csv format and has the host information for machines on your network.  Make the necessary changes as it pertains to you.
   
    **Autorunkeys.txt:** This is a file that has a list of well known auto run key locations on a Win10 Registry
   
