@@ -12,4 +12,4 @@ These scripts are set up to be run in the directories they exist. This will make
            
    If you want to change the locations, just ensure that all relative paths in your scripts are edited to show new locations!
 
-To running Invoke-Commands (ICM) for remote powershell execution, you will need to enter domain name and password credential in the remote login popup.
+To run Invoke-Commands (ICM) for remote powershell execution, you will need to enter domain/user name and password credential in the remote login popup.
